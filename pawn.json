@@ -1,0 +1,9 @@
+{
+	"user": "axx209",
+	"repo": "f_selection",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
